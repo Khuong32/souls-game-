@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="yFJ~@UGCe#C.^6nD%%%m">mySprite</variable><variable type="KIND_SpriteKind" id="+ho3Hj?Ca09;t0F+l=}G">Player</variable><variable type="KIND_SpriteKind" id="(*w*q`CM}qr.41?o(Q8m">Projectile</variable><variable type="KIND_SpriteKind" id="Q`P)BQQsp5k@3BGMm}3Q">Food</variable><variable type="KIND_SpriteKind" id="J_vN%c84xnu-R*2VD0nM">Enemy</variable></variables><block type="pxt-on-start" id="i@yU3mH.jY%{SG^gj552" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="w*38vg(PP+=~,x`q5!yR"><field name="VAR" id="yFJ~@UGCe#C.^6nD%%%m">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="(/i0D0hxU:Ez{-Lv9|-@"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="+ho3Hj?Ca09;t0F+l=}G">Player</variable><variable type="KIND_SpriteKind" id="(*w*q`CM}qr.41?o(Q8m">Projectile</variable><variable type="KIND_SpriteKind" id="Q`P)BQQsp5k@3BGMm}3Q">Food</variable><variable type="KIND_SpriteKind" id="J_vN%c84xnu-R*2VD0nM">Enemy</variable><variable id="yFJ~@UGCe#C.^6nD%%%m">mySprite</variable><variable id="+#PI}28+mI9qjAPp`y_3">mySprite2</variable></variables><block type="pxt-on-start" id="i@yU3mH.jY%{SG^gj552" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="w*38vg(PP+=~,x`q5!yR"><field name="VAR" id="yFJ~@UGCe#C.^6nD%%%m">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="(/i0D0hxU:Ez{-Lv9|-@"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
 ....................................................................................................
 ....................................................................................................
 ....................................................................................................
@@ -460,4 +460,21 @@
 .....ffffffffffffffffffffffffffcccccffff..f.ffffffff............cccfffffffffffcffffcccccffffffdff...
 ....ffffffffffcccff.........ffffffffff.......fff.....................ffffffff..ffd.dfffcfff.........
 ...fffffffffff................................f.....................................f...............
-`</field><data>{"commentRefs":[],"fieldData":{"img":"!k!lHJ93$Kvzik73Z)L="}}</data></block></value><value name="kind"><shadow type="spritekind" id="}age*8eqF#ydz?AauVwx"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"!k!lHJ93$Kvzik73Z)L="}}</data></block></value><value name="kind"><shadow type="spritekind" id="}age*8eqF#ydz?AauVwx"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="variables_set" id="py7IbYGdWn,VnvVH6)a1"><field name="VAR" id="+#PI}28+mI9qjAPp`y_3">mySprite2</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="WC+RWa8=mt]hH.Vky$q_"><value name="img"><shadow type="screen_image_picker" id="/8qmO~]8=Q0H$}RlJ=K9"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"/8qmO~]8=Q0H$}RlJ=K9"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="6.6FpfPolmvkS1^n3G0;"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
